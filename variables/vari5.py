@@ -1,0 +1,5 @@
+number = int(input("5 koronás: "))
+number2 = int(input("2 koronás: "))
+number3 = int(input("1 koronás: "))
+print("Összeg:")
+print((number * 5) + (number2 * 2) + (number3 * 1) )
